@@ -1,8 +1,8 @@
 ---
-name:
+name: Kalena
 aliases:
-pronouns:
-species:
+pronouns: She/Her
+species: Devil
 affiliation:
 attitude:
 residence:
@@ -11,13 +11,13 @@ statblock:
 tags:
   - character
   - npc
-  - both-parties
+  - kic-party
 ---
 # Appearance
 
 # Traits
 
 # Personality
-
+likes deals!
 # Key Info
 

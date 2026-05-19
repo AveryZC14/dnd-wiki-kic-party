@@ -1,13 +1,14 @@
 ---
-name:
+name: Ronda Dimplethatch
 aliases:
-pronouns:
-species:
-player:
-class:
-level:
-residence:
-status:
+  - Ronda
+pronouns: She/Her
+species: Halfling
+player: Jasmine
+class: Cleric
+level: "4"
+residence: "[[Palias]]"
+status: Alive (for now)
 tags:
   - character
   - kic-party
