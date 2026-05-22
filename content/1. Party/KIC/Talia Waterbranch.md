@@ -1,35 +1,32 @@
 ---
-name: Ronda Dimplethatch
+name: Talia Waterbranch
 aliases:
-  - Ronda
+  - Talia
 pronouns: She/Her
-species: Halfling
-player: Jasmine
-class: Cleric
+species: Human
+player: Cleo
+class: Fighter
 level: "4"
 residence:
   - "[[Palias]]"
-  - "[[Ronda's House]]"
+  - "[[Scaramouth]]"
 status: Alive (for now)
 tags:
   - character
-  - kic-party
+  - both-parties
   - player-character
 ---
 # Appearance
 
-
 # Backstory
 
+Used to be part of [[The Travelling Troupe]]
 
 # Traits
 
-
 # Personality
-
 
 # Key Info
 
-
 # Key Relationships
-- Has a pet Cockroach named [[Benee]]
+- Childhood friends with [[Lachlan Grey|Lachlan]] 
