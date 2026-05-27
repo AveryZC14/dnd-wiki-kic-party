@@ -12,7 +12,7 @@ statblock:
 tags:
   - character
   - npc
-  - both-parties
+  - kic-party
 ---
 # Appearance
 
