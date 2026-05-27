@@ -4,7 +4,12 @@ dungeon-master: "[[Avery]]"
 primary-party: KIC Party
 session_no:
 pcs-present:
-story-arc:
+  - "[[Ronda Dimplethatch|Ronda]]"
+  - "[[Filarion Phrygia|Filarion]]"
+  - "[[Talia Waterbranch|Talia]]"
+  - "[[Thorin Kjellsvard|Thorin]]"
+  - "[[Stella]]"
+story-arc: Main
 tags:
   - session
   - session-summary
