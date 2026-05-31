@@ -1,16 +1,16 @@
 ---
-name: Scaramouth
-parent_location: "[[Palias]]"
+name: The Thatchery
+parent_location: "[[Overworld]]"
 tags:
   - location
-  - both-parties
+  - kic-party
 ---
-#location #both-parties 
 ## Description
-A lovely little tavern in the heart of Palias
+A quaint little restaurant, bustling and booming with business, in the middle of a small halfling village
 
 ## key info
-
+- Founded by [[Ronda Dimplethatch]]
+- Currently owned and run by [[Merla Solanum]]
 
 ### Sub-Locations
 ```base
@@ -25,6 +25,6 @@ views:
       - file.name
     sort:
       - property: file.name
-        direction: ASC
+        direction: DESC
 
 ```
