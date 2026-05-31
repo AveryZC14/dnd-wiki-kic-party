@@ -31,8 +31,8 @@ They are not very smart.
 - They are outcasts from Goblin society!
 
 # Interaction History
-<kp-exclusive>
+<kp-start></kp-start>
 - in [[Clorvie Floor Cleaner! (KP Summary)|Session 1]], met the group, who caught them trying to steal from the [[Clorvian Household]] and pacified them, then spared them, leaving them with little trinkets.
 - TODO: session 2
-</kp-exclusive>
+<kp-end></kp-end>
 

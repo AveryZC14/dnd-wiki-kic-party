@@ -36,9 +36,9 @@ They sport a multitude of Jewellery, a pendant with a big green gem, many horn-r
 
 
 # Interaction history
-<kp-exclusive>
+<kp-start></kp-start>
 - Before the campaign, brought the party together, housed some of them at the Scaramouth
 - In [[Clorvie Floor Cleaner! (KP Summary)]], Gives the gang a task, to help out [[Dennis Clorvian|Dennis]].
 - In [[Protectoball! (KP Summary)]], Breaks up a potential fight between [[Jacques Mclauren]] and [[Thorin Kjellsvard|Thorin]]. 
-</kp-exclusive>
+<kp-end></kp-end>
 
