@@ -3,21 +3,18 @@ name:
 aliases:
 pronouns:
 species:
-player:
-class:
-age:
-level:
+affiliation:
+attitude:
+alignment:
 residence:
 status:
+statblock:
 tags:
   - character
-  - both-parties
-  - player-character
+  - npc
+  - kic-party
 ---
 # Appearance
-
-
-# Backstory
 
 
 # Traits
@@ -29,7 +26,4 @@ tags:
 # Key Info
 
 
-# Key Relationships
-
-
-# Key History
+# History

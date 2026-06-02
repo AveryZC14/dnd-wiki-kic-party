@@ -1,16 +1,15 @@
 ---
-name: The Thatchery
-parent_location: "[[Fieldybrooke]]"
+name:
+parent_location:
 tags:
   - location
-  - kic-party
+  - both-parties
 ---
 ## Description
-A quaint little restaurant, bustling and booming with business, in the middle of a small halfling village
+
 
 ## key info
-- Founded by [[Ronda Dimplethatch]]
-- Currently owned and run by [[Merla Solanum]]
+
 
 ### Sub-Locations
 ```base

@@ -1,5 +1,5 @@
 ---
-name:
+name: Solomon
 aliases:
 pronouns:
 species:
@@ -7,12 +7,12 @@ affiliation:
 attitude:
 alignment:
 residence:
-status:
+status: Dead
 statblock:
 tags:
   - character
   - npc
-  - both-parties
+  - kic-party
 ---
 # Appearance
 
