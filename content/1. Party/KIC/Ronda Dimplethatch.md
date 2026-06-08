@@ -25,6 +25,7 @@ left her sleepy home town of [[Fieldybrooke]], where she ran the much loved rest
 
 # Traits
 - Wholesome
+- has a huge fear of fish
 
 # Personality
 Kind and eager. Mediator. Likes gardening and loves cooking.
