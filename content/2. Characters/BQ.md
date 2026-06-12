@@ -23,5 +23,6 @@ Seems to have basic telekinesis
 Friendly and welcoming!
 
 # Key Info
+was cast out from modron society for not being born with Limbs
 Occasionally hosts game night for his friends
 

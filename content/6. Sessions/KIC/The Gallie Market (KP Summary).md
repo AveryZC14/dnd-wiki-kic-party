@@ -21,7 +21,10 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 - Our adventurers are friends now!
 - [[Ronda Dimplethatch|Ronda]] hosts a Gatho with a lovely soup
 - Enter downtime
-- like 2 days in, [[Thorin Kjellsvard|Thorin]] gets message from [[Lady Kjellsvard|His mother]]
+- [[Thorin Kjellsvard|Thorin]] tries to scope out what's new with the dwarven nobles, and gets no info (and a supicious look from [[Jacques Mclauren]])
+- [[Stella]] visits a grave
+- [[Ronda Dimplethatch|Ronda]] and [[Talia Waterbranch|Talia]]'s downtime will be resolved next sesh
+- like 2 days in, [[Thorin Kjellsvard|Thorin]] gets a telepathic message from [[Lady Kjellsvard|His mother]]
 	- "Thorin, Return to house Kjellsvard at once. This behaviour is insolent, reckless unacceptable, and does not reflect the values of House Kjellsvard. Shame on you"
 	- he responds "Make Me" and blocks more sending spells for 8 hrs
 - Thorin runs to [[Palias Library]], everyone splits up to go find him
