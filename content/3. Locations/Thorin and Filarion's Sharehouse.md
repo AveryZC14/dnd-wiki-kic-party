@@ -7,6 +7,7 @@ tags:
 ---
 ## Description
 A pretty cheap little sharehouse in one of the less busy parts of Palias.
+It's shockingly small and cramped.
 Currenly houses [[BQ]], [[Thorin Kjellsvard|Thorin]], [[Filarion Phrygia|Filarion]] and [[Bible Woman]]
 
 ## key info

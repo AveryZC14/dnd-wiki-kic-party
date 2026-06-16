@@ -17,7 +17,8 @@ tags:
 A large cube of Flesh and Metal with a friendly face! no limbs.
 
 # Traits
-Seems to have basic telekinesis 
+Seems to have basic telekinesis
+Loves tea!
 
 # Personality
 Friendly and welcoming!
