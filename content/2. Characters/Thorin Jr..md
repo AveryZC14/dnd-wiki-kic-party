@@ -29,6 +29,6 @@ very kind
 # History
 - Recruited by [[Thorin Kjellsvard|Thorin]]
 - In [[Elgris]], was turned by [[Rudania]] and rode away
-- Was found on the road by the [[Passionate Pacitos]], mostly fine
+- Was found on the road by the [[Passionate Pasitos]], mostly fine
 - Was ridden through [[Bronica]] in the [[Battle of bronica]]
 - was incinerated from a fireball cast by [[Solomon (kp)]]. 

@@ -76,7 +76,7 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 - Thorin gets another message 
 	- "low on material components for sending. You are wasting our expensive precious resources. Please respond with current location. Maybe with enough training, you will eventually"
 	- he completely ignores it.
-- Later, he gets messages from his halfling roguish teacher, Cade! who resides back at House Kjellsvard.
+- Later, he gets messages from his halfling roguish teacher, [[Cade]]! who resides back at [[House Kjellsvard]].
 	- "Hi, Thorin. It's me, Cade! I've stolen some gems to cast this. I'm so Glad you're alive! your parents are planning something, Watch out for-" 
 		- Thorin responds: "Cade I'm so glad to hear from you I hope you're doing well! stay frosty!"
 	- "Cade again. Dunno why the message cut off last time. These gems are so hard to steal, but casting this spell is even harder. Anyways-"
@@ -85,4 +85,38 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 		- Thorin responds: "Cade don't get caught, keep yourself safe!"
 
 - Dooley Duel!
-- Randal Dooley shows up.
+- The party travels to [[Palias]] town square
+- [[Randal Dooley]] shows up, she's well dressed, but far from her advertised cheery demeanour, she's pretty stressed about getting set up
+- She greets the PP, letting them know that this event will be "LiveScryed", meaning it'll be captured on a scrying eye and broadcasted to viewers. currently planned to be livescryed to 7 or so unique locations, on big screens.
+- Francois shows up too
+- Having heard about the livescrying, Thorin takes the kuo-toa skull and fashions it into a mask, and activates the cloak of billowing. aura farming HARD
+- The stage is set, and Axengrav shows up at the last moment, flying in with massive draconic wings, and with tote bags full of ingredients. (what an aura farmer)
+- Randal goes around getting introductions from the three teams
+	- Ronda shouts out [[Fieldybrooke]] and [[Pasito]], and does a little self promo for [[The Thatchery]]
+	- Randal asks about thorin, who's aura farming in the corner
+	- Francois and the Jimothies are standing in a line, trying to look cool, but they're kind of mogged by Thorin
+	- Axengrav has gotten out a lawn chair and a joint, and tells randal that they're only in it for the fun of competition. When asked about the remaining people in their party, they call upon unseen servants to cook.
+- The Dooley Duel begins!
+- Axengrav's recipe is a fried rice with crazy ahh ingredients and spices and msg
+- Francois' gang's recipe is a 5 course meal using every part of the cockatrice that they teleported in
+- the [[Passionate Pasitos]] are making a big meat platter with bread and other sides
+- Francois and the Jimothies work like a well oiled machine, making a cockatrice broth, and breading and crumbing some cockatrice to make fried cockatrice and a blooming onion
+- Axengrav's unseen servants slowly slowly put ingredients into the wok
+- The PP get to work dilligently, slicing and grilling the Tender Megaboar meat. Thorin uses psychic daggers to slice the meat perfectly
+- Francois makes grilled cockatrice by rotating the meat over a "Francois Lefire". Also makes a delicious curry
+- Axengrav's kind of panicking as the unseen servants start to burn the fried rice, yelling at them to put more MSG in
+- Talia and Filarion get on either side of a big cut of pork to make pulled pork, but Talia's far stronger than Filarion, so she ends up dragging him across the stage
+	- The ratings go crazy for this one!
+- In the final few minutes, Francois and gang make crispy Cockatrice skin fries
+- Axengrav steps in and desparately fries the rice
+- Stella does a crazy leap and flings an apple into the open mouth of the head of the Tender megaboar, finishing the PP's dish
+- It's judging time!
+- Randal tastes Axengrav's dish, and compliments the seasoning and ingredients, despite somehow burning fried rice?
+- Randal is thoroughly impressed by Francois' 5 course meal! she compliments it dearly
+- ad break! a co-host subs in to promote Dooley Cookware
+- Finally, Randal tastes the PP's meat platter, presented by Ronda. Randal savours it slowly, and enjoys it genuinely. for a moment, the TV persona fades and true culinary joy shines through.
+- the winners of the Dooley Duel are.... The Passionate Pasitos!
+- both FL and the PP share their meals with the people who came to watch
+- Francois doesn't wanna share the food with the crew who worked on the show, but the PP are happy to
+- Francois announces the opening of his new restaurant, "Le Friary" (Friary like the religious building)
+- yay!
