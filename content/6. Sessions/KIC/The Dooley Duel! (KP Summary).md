@@ -2,7 +2,7 @@
 session_name: The Dooley Duel!
 dungeon-master: "[[Avery]]"
 primary-party: KIC Party
-session_no:
+session_no: "14"
 pcs-present:
   - "[[Ronda Dimplethatch|Ronda]]"
   - "[[Filarion Phrygia|Filarion]]"
@@ -16,6 +16,7 @@ tags:
   - kic-party
 ---
 Click [[KIC Session Log|Here]] to see the KIC session log.
+
 - Party, on the way back to the Scaramouth, Thorin recieves two more sendings
 	- "How dare you block these messages. You need to remember what we taught you about respect (16). Don't you dare block any more of these messages. Your insolence will not be-" 
 	- "Tolerated! Countless hours teaching you the history of our family and the legacy we expect you to leave and you dare insult us by leaving?"
@@ -66,6 +67,7 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 - they embrace in tears (with Jimothy still holding the pot that's on stella's head)
 - Talia gives francois one of the tender megaboar's tusks
 - Francois and the sous chefs leave!
+- The PP enter the cave... and find... Three Tender Megaboar Eggs!!! What!?!?!??!?
 - the gang brings back the tender megaboar.
 - Thorin gets new message
 	- "Give us your location, Thorin Kjellsvard. We will send someone to escort you back home safely. Do not even think to block more sending spells. "
@@ -73,6 +75,7 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 - over next two days, gang prepares for the Dooley Duel
 - Ronda has the PP and the shirelon family over for a big stew dinner, doing a test run of the tender megaboar
 - Ronda (on a nat 20) learns the meat well. very well!
+- Talia tries her best to incubate the tender megaboar eggs.. she might need some help with this one
 - Thorin gets another message 
 	- "low on material components for sending. You are wasting our expensive precious resources. Please respond with current location. Maybe with enough training, you will eventually"
 	- he completely ignores it.
@@ -83,7 +86,9 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 		- Thorin responds: "Cade what the fuck. bro what the fuck are they doing"
 	- "They're onto me! I can't keep this up. I'm so proud that you're becoming a true adventurer but Your parents' plans are diabolical, they've got- "
 		- Thorin responds: "Cade don't get caught, keep yourself safe!"
-
+- The party gives the important bones of the Tender Megaboar to the Shirelons, who, in return, waive the remaining 100gp for the spell scroll. The party now has a scroll of revivify and the diamond! yay!
+- Stella and Thorin (on [[Storin]]) bring the two normal boar corpses to Grash the butcher
+	- Grash now owes the party an elk, and gives the party 10gp for the boars.
 - Dooley Duel!
 - The party travels to [[Palias]] town square
 - [[Randal Dooley]] shows up, she's well dressed, but far from her advertised cheery demeanour, she's pretty stressed about getting set up
@@ -116,7 +121,7 @@ Click [[KIC Session Log|Here]] to see the KIC session log.
 - ad break! a co-host subs in to promote Dooley Cookware
 - Finally, Randal tastes the PP's meat platter, presented by Ronda. Randal savours it slowly, and enjoys it genuinely. for a moment, the TV persona fades and true culinary joy shines through.
 - the winners of the Dooley Duel are.... The Passionate Pasitos!
-- both FL and the PP share their meals with the people who came to watch
-- Francois doesn't wanna share the food with the crew who worked on the show, but the PP are happy to
+- both FL and the PP share their meals with the people of Palias who came to watch
+- Francois doesn't wanna share the food with the crew who worked on the show, but the PP are happy to.
 - Francois announces the opening of his new restaurant, "Le Friary" (Friary like the religious building)
 - yay!

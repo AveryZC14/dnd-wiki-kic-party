@@ -41,4 +41,5 @@ An old construct with wheels that used to help as an assistant, cart construct.
 party defeats these sussies (Talia does a crazy attack)
 
 party gets [[The Enlengthening Sword]]
+party befriends Rugra, the animated rug. 
 

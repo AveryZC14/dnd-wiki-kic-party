@@ -21,6 +21,6 @@ tags:
 | 11  |                               |                                         |
 | 12  |                               | [[The Shirelon Warehouse (KP Summary)]] |
 | 13  | [[The Dooley Duel prep (KP)]] | [[The Gallie Market (KP Summary)]]      |
-| 14  |                               |                                         |
+| 14  |                               | [[The Dooley Duel! (KP Summary)]]       |
 | 15  |                               |                                         |
 |     |                               |                                         |
